@@ -10,4 +10,4 @@ All Notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.
 ---
 
 ## Individual Notebooks:
-regex_objectacolypse [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MyCodePack/NybbleNotebooks/master?filepath=regex_objectacolypse.ipynb)
+regex_objectacolypse [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MyCodePack/NybbleNotebooks/master?filepath=regex_objectacolypse%2Fregex_objectacolypse.ipynb)
